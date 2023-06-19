@@ -1,23 +1,31 @@
 
-## Hi👋, I am Binyam Yohannes
+<h1 align="center">Hi👋, I am Binyam Yohannes</h1>
 
-### "A good half of the art of living is resilience." - _Alain de Botton_
+<h3 align="center">"A good half of the art of living is resilience." - <em>Alain de Botton</em></h3>
 
-![CodingGIF](https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204)
+<p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="750" alt="GIF"></p>
 
 ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+<img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="550px" height="320px"/>
 
-![WebDesignCompanyNetGIF](https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e)
+- 🔭 I’m currently working on CSS frameworks.
+- 🌱 I’m currently learning front-end technologies.
+- 👯 I’m looking to collaborate on building responsive webpages.
+- 🤔 I’m looking for help with back-end technologies.
+- 💬 Ask me about HTML5, CSS3 and JavaScript.
+- 📫 How to reach me: olangobinyam@gmail.com +251919300400
+- 📰 Know about my experience: [https://www.linkedin.com/in/binyam-yohannes-44869b268/](https://www.linkedin.com/in/binyam-yohannes-44869b268/) and [Here is my Resume](https://github.com/binyamolango/binyamolango/files/11786735/Resume-Binyam-Yohannes.pdf)
+- ⚡ Fun fact: Love outdoor activities, nature, and music.
 
-[Here is my Resume](https://github.com/binyamolango/binyamolango/files/11786735/Resume-Binyam-Yohannes.pdf)
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=binyamolango&theme=dark)](https://git.io/streak-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binyamolango)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=binyamolango&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
