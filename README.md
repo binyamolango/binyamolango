@@ -9,8 +9,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="530px" height="280px"/>
 
-- 🔭 I’m currently working on CSS frameworks.
-- 🌱 I’m currently learning front-end technologies.
+- 🔭 I’m currently working on JavaScript Libraries.
+- 🌱 I’m currently learning frontend-backend technologies.
 - 👯 I’m looking to collaborate on building responsive webpages.
 - 🤔 I’m looking for help with back-end technologies.
 - 💬 Ask me about HTML5, CSS3 and JavaScript.
