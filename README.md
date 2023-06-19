@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="550px" height="260px"/>
+<img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="530px" height="280px"/>
 
 - 🔭 I’m currently working on CSS frameworks.
 - 🌱 I’m currently learning front-end technologies.
