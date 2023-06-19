@@ -16,7 +16,7 @@
 - 💬 Ask me about HTML5, CSS3 and JavaScript.
 - 📫 How to reach me: olangobinyam@gmail.com +251919300400
 - 📰 Know about my experience: [https://www.linkedin.com/in/binyam-yohannes-44869b268/](https://www.linkedin.com/in/binyam-yohannes-44869b268/) and [Here is my Resume](https://github.com/binyamolango/binyamolango/files/11786735/Resume-Binyam-Yohannes.pdf)
-- ⚡ Fun fact: Love outdoor activities, nature, and music.
+- ⚡ Fun fact: Love the outdoors, nature, and music.
 
 ---
 
