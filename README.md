@@ -3,7 +3,7 @@
 
 <h3 align="center">"A good half of the art of living is resilience." - <em>Alain de Botton</em></h3>
 
-<p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="750" alt="GIF"></p>
+<p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="650" alt="GIF"></p>
 
 ---
 
