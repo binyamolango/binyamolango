@@ -3,7 +3,7 @@
 
 <h3 align="center">"A good half of the art of living is resilience." - <em>Alain de Botton</em></h3>
 
-<p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="650" alt="GIF"></p>
+<p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="700" alt="GIF"></p>
 
 ---
 
@@ -15,8 +15,8 @@
 - 🤔 I’m looking for help with back-end technologies.
 - 💬 Ask me about HTML5, CSS3 and JavaScript.
 - 📫 How to reach me: olangobinyam@gmail.com +251919300400
-- 📰 Know about my experience: [https://www.linkedin.com/in/binyam-yohannes-44869b268/](https://www.linkedin.com/in/binyam-yohannes-44869b268/) and [Here is my Resume](https://github.com/binyamolango/binyamolango/files/11786735/Resume-Binyam-Yohannes.pdf)
-- ⚡ Fun fact: Love the outdoors, nature, and music.
+- 📰 Know about my experience: [https://www.linkedin.com/in/binyam-yohannes-44869b268/](https://www.linkedin.com/in/binyam-yohannes-44869b268/) and [Here is my resume.](https://github.com/binyamolango/binyamolango/files/12225698/Resume-Binyam-Yohannes.7.pdf)
+- ⚡ Fun fact: Love the outdoor activities, nature, and music.
 
 ---
 
