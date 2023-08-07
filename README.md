@@ -7,6 +7,7 @@
 
 ---
 
+
 <img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="500px" height="280px"/>
 
 - 🔭 I’m currently working on JavaScript Libraries.
