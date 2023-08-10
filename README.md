@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with back-end technologies.
 - 💬 Ask me about HTML5, CSS3 and JavaScript.
 - 📫 How to reach me: olangobinyam@gmail.com +251919300400
-- 📰 Know about my experience: [https://www.linkedin.com/in/binyam-yohannes-44869b268/](https://www.linkedin.com/in/binyam-yohannes-44869b268/) and [Here is my resume.](https://github.com/binyamolango/binyamolango/files/12225698/Resume-Binyam-Yohannes.7.pdf)
+- 📰 Know about my experience: [https://www.linkedin.com/in/binyam-yohannes-44869b268/](https://www.linkedin.com/in/binyam-yohannes-44869b268/)
 - ⚡ Fun fact: Love the outdoor activities, nature, and music.
 
 ---
