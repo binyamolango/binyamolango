@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi👋, I am Binyam Yohannes</h1>
 
 <h3 align="center">"A good half of the art of living is resilience." - <em>Alain de Botton</em></h3>
