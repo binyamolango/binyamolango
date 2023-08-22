@@ -4,7 +4,6 @@
 
 <p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="700" alt="GIF"></p>
 ---
-
 <img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="500px" height="280px"/>
 
 - 🔭 I’m currently working on JavaScript Libraries.
