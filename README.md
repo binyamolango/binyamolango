@@ -15,9 +15,7 @@
 - ⚡ Fun fact: Love the outdoor activities, nature, and music.
 
 ---
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=binyamolango&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binyamolango)](https://github.com/anuraghazra/github-readme-stats)
