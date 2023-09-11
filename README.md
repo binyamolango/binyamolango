@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on JavaScript Libraries.
 - 🌱 I’m currently learning full-stack software development at Microverse.
 - 👯 I’m looking to collaborate on building responsive webpages.
-- 🤔 I’m looking for help with back-end technologies.
+- 🤔 I’m looking for help with finding new opportunities.
 - 💬 Ask me about HTML5, CSS3 and JavaScript.
 - 📫 How to reach me: olangobinyam@gmail.com +251919300400
 - 📰 Know about my experience: [LinkedIn Handle](https://www.linkedin.com/in/binyamyohannes)
