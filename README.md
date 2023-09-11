@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning full-stack software development at Microverse.
 - 👯 I’m looking to collaborate on building responsive webpages.
 - 🤔 I’m looking for help with finding new opportunities.
-- 💬 Ask me about HTML5, CSS3 and JavaScript.
+- 💬 Ask me about JavaScript, React, and Redux.
 - 📫 How to reach me: olangobinyam@gmail.com +251919300400
 - 📰 Know about my experience: [LinkedIn Handle](https://www.linkedin.com/in/binyamyohannes)
 - ⚡ Fun fact: Love the outdoors, nature, and music.
