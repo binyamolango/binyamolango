@@ -1,6 +1,6 @@
-<h1 align="center">Hi👋, I am Binyam Yohannes</h1>
-
 <h3 align="center">"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." - <em>Leonardo da Vinci</em></h3>
+
+<h1 align="center">Hi👋, I am Binyam Yohannes and I am a full-stack web developer.</h1>
 
 <p align="center"><img src="https://github.com/binyamolango/binyamolango/assets/125895809/c545f87c-7c37-4c5a-ba27-cb6de862e204.gif" width="700" alt="GIF"></p>
 
