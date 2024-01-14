@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi👋, I am Binyam Yohannes, a full-stack web developer.</h1>
+<h1 align="center">Hi👋, I am Binyam Yohannes, a front-end engineer.</h1>
 
 <h3 align="center">"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." - <em>Leonardo da Vinci</em></h3>
 
@@ -9,14 +9,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="500px" height="280px"/>
 
-- 🔭 I’m currently working on Rails projects.
-- 🌱 I’m currently learning full-stack software development at Microverse.
-- 👯 I’m looking to collaborate on building responsive webpages.
-- 🤔 I’m looking for help with finding new opportunities.
-- 💬 Ask me about JavaScript, React, and Redux.
-- 📫 How to reach me: olangobinyam@gmail.com +251919300400
+- 🔭 I’m currently working on react.js projects.
+- 🌱 I’m currently learning a full-stack software development program at Microverse.
+- 👯 I’m looking to collaborate on building responsive and authentic websites.
+- 💬 Ask me about HTML, CSS, JavaScript, React, and Redux.
+- 📫 How to reach me: Email: <a href="mailto:olangobinyam@gmail.com" target="_blank">olangobinyam@gmail.com</a> Whatsapp: +251919300400
 - 📰 Know about my experience: [LinkedIn Handle](https://www.linkedin.com/in/binyamyohannes)
-- ⚡ Fun fact: Love the outdoors, nature, and music.
+- ⚡ Fun fact: I love the outdoors, nature, and music.
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=binyamolango&theme=dark)](https://git.io/streak-stats)
