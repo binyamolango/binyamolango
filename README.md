@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning a full-stack software development program at Microverse.
 - 👯 I’m looking to collaborate on building responsive and authentic websites.
 - 💬 Ask me about HTML, CSS, JavaScript, React, and Redux.
-- 📫 How to reach me: Email: <a href="mailto:olangobinyam@gmail.com" target="_blank">olangobinyam@gmail.com</a> Whatsapp: +251919300400
+- 📫 How to reach me: Email: [olangobinyam@gmail.com](mailto:olangobinyam@gmail.com) Whatsapp: +251919300400
 - 📰 Know about my experience: [LinkedIn Handle](https://www.linkedin.com/in/binyamyohannes)
 - ⚡ Fun fact: I love the outdoors, nature, and music.
 
