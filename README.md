@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="500px" height="280px"/>
 
-- 🔭 I’m currently working on RoR projects.
+- 🔭 I’m currently working on RoR projects. 
 - 🌱 I’m currently learning a full-stack software development program at Microverse.
 - 👯 I’m looking to collaborate on building responsive and aesthetic websites.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux, PostgreSQL, and Ruby on Rails.
