@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on RoR projects. 
 - 🌱 I’m currently learning a full-stack software development program at Microverse. 
 - 👥️ I’m looking to collaborate on building responsive and aesthetic websites.
-- 💬 Ask me about HTML, CSS, JavaScript, React, Redux, PostgreSQL, and Ruby on Rails.
+- 💬 Ask me about HTML, CSS, JavaScript, React, Redux, PostgreSQL, and Ruby on Rails. 
 - 📫 How to reach me: Email: [olangobinyam@gmail.com](mailto:olangobinyam@gmail.com) Whatsapp: +251919300400
 - 📰 Know about my experience: [LinkedIn Handle](https://www.linkedin.com/in/binyamyohannes)
 - ⚡ Fun fact: I love the outdoors, nature, and music.
