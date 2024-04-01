@@ -25,3 +25,6 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=binyamolango&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[My_CV.pdf](https://github.com/binyamolango/binyamolango/files/14823795/Binyam_Y_CV.pdf)
+
