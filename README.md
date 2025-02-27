@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I am Binyam Yohannes, a full-stack web developer.</h1>
+<h1 align="center">Hi👋, I am Binyam Yohannes, a web developer.</h1>
 
 <h3 align="center">"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." - <em>Leonardo da Vinci</em></h3>
 
