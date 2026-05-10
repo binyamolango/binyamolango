@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I am Binyam , a software developer.</h1>
+<h1 align="center">Hi👋, I am Binyam , a software engineer.</h1>
 
 <h3 align="center">"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." - <em>Leonardo da Vinci</em></h3>
 
@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/binyamolango/binyamolango/assets/125895809/e819150d-8b24-4bcf-a830-ad23330a898e.gif" width="500px" height="280px"/>
 
-- 🔭 I’m currently working on RoR projects.
+- 🔭 I’m currently working on Machine Learning projects.
 - 👥️ I’m looking to collaborate on building responsive and aesthetic websites.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux, PostgreSQL, and Ruby on Rails. 
 - 📫 How to reach me: Email: [olangobinyam@gmail.com](mailto:olangobinyam@gmail.com)
