@@ -12,7 +12,6 @@
 - 📫 How to reach me: Email: [olangobinyam@gmail.com](mailto:olangobinyam@gmail.com)
 - 📰 Know about my experience: [LinkedIn Handle](https://www.linkedin.com/in/binyamyohannes)
 - ⚡ Fun fact: I love the outdoors, nature, and music.
-
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=binyamolango&theme=dark)](https://git.io/streak-stats)
 ---
